@@ -1,0 +1,29 @@
+.tag-container{
+    display: flex;
+    list-style-type: none;
+}
+.item-list{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.comments-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.votes-container{
+    margin-right: 10px;
+}
+.answer-container{
+    margin-right: 10px;
+}
+.views-container{
+    margin-right: 10px;
+}
+
+.title{
+    color: #4287f5;
+    font-weight: 500;
+}
